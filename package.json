@@ -198,5 +198,13 @@
     "yargs": "^17.6.2",
     "yargs-parser": "^20.2.9"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Santi16co/PreEntrega3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Santi16co/PreEntrega3/issues"
+  },
+  "homepage": "https://github.com/Santi16co/PreEntrega3#readme",
   "description": ""
 }
