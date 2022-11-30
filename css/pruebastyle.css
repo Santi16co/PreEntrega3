@@ -67,6 +67,9 @@ div {
   display: inline-block;
   background-size: contain; }
 
+  .imagenlogo img{
+    size: 4em;
+  }
 .parrafo
 p {
   font-size: 25px;
